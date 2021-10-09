@@ -1,4 +1,4 @@
-# Maltiverse Feed Redis Connector
+# Maltiverse Feed SPLUNK ENTERPRISE SECURITY Connector
 Connection script to integrate Maltiverse feeds into Splunk Enterprise Security
 
 ```
